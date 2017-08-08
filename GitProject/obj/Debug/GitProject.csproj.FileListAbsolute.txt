@@ -1,0 +1,17 @@
+C:\Users\Louis\Documents\Visual Studio 2015\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.csprojResolveAssemblyReference.cache
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.Form1.resources
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.FrmIvan.resources
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.Properties.Resources.resources
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.csproj.GenerateResource.Cache
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\bin\Debug\GitProject.exe
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\bin\Debug\GitProject.pdb
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.exe
+C:\Users\deWit777\Desktop\ITRW324\GITProject\GitProject\GitProject\obj\Debug\GitProject.pdb
+C:\Users\Augusto\Desktop\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\Augusto\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.exe
+C:\Users\Augusto\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.pdb
+E:\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.exe.config
+E:\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.exe
+E:\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.pdb
