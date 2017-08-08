@@ -15,3 +15,6 @@ C:\Users\Augusto\Desktop\GITProject-master\GitProject\GitProject\obj\Debug\GitPr
 E:\GITProject-master\GitProject\GitProject\bin\Debug\GitProject.exe.config
 E:\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.exe
 E:\GITProject-master\GitProject\GitProject\obj\Debug\GitProject.pdb
+C:\Users\Augusto\Desktop\GitHub Files\ITRW 324 Assignment 1\GITProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\Augusto\Desktop\GitHub Files\ITRW 324 Assignment 1\GITProject\GitProject\obj\Debug\GitProject.exe
+C:\Users\Augusto\Desktop\GitHub Files\ITRW 324 Assignment 1\GITProject\GitProject\obj\Debug\GitProject.pdb
